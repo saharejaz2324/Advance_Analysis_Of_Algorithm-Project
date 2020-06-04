@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMatchingAlgorithmProject", "StringMatchingAlgorithmProject\StringMatchingAlgorithmProject.csproj", "{6842A91F-24BB-47C3-8C52-4DFF9236249C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6842A91F-24BB-47C3-8C52-4DFF9236249C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6842A91F-24BB-47C3-8C52-4DFF9236249C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6842A91F-24BB-47C3-8C52-4DFF9236249C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6842A91F-24BB-47C3-8C52-4DFF9236249C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D65319F-2506-4E9B-9452-744BEAAA4964}
+	EndGlobalSection
+EndGlobal
